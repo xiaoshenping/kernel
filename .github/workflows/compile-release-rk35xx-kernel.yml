@@ -68,6 +68,7 @@ on:
         default: "-rk35xx-ophub"
         type: choice
         options:
+          - -rk35xx-xiaoshenping
           - -rk35xx-ophub
           - -happy-new-year
           - -dragon-boat-festival
